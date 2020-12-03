@@ -1,7 +1,6 @@
 # static
 Udacity Project: Jenkins Pipeline on AWS
-
-The purpose of this project is to deploy and run an instance on AWS and configure Jenkins, and run pipeline to deploy a static website on S3 at the end of it.
+The purpose of this project is to run an instance on AWS, configure Jenkins, and create a pipeline to deploy a static website on S3. 
 
 ## Requirements
 
